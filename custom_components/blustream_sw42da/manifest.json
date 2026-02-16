@@ -1,0 +1,20 @@
+{
+  "domain": "blustream_sw42da",
+  "name": "Blustream SW42DA",
+  "codeowners": [
+    "@chillywasher"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/sw42da",
+  "homekit": {},
+  "iot_class": "local_polling",
+  "integration_type": "device",
+  "quality_scale": "bronze",
+  "requirements": [
+    "pyserial==3.5"
+  ],
+  "version": "1.0.0",
+  "ssdp": [],
+  "zeroconf": []
+}

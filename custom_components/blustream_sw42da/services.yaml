@@ -1,0 +1,3 @@
+reboot_device:
+  name: Reboot Device
+  description: Reboot the device
